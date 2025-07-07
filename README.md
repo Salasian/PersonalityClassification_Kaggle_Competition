@@ -4,4 +4,4 @@ This repository presents my solution to the Kaggle's Competition [Predict the In
 
 The main goal for this competition is to reach the highest accuracy_score on the competition. To do this the participants need to predict via the train and test dataset features, which personality each person is.
 
-You can find the datasets used on the competition (here)[https://www.kaggle.com/competitions/playground-series-s5e7/data]
+You can find the datasets used on the competition [here](https://www.kaggle.com/competitions/playground-series-s5e7/data)
